@@ -6,3 +6,4 @@ Functions of the application include:
   3) Editing and deleting existing tasks
   4) Checking for completed tasks and pending tasks
   5) A "Clear All" button to clear all the existing tasks at once
+Check it out at: https://amirtha2503.github.io/Task-manager-App/
